@@ -10,7 +10,7 @@ print("Mientras caminaban, Hansel iba dejando caer una piedrita cada pocos pasos
 print (
     '''
     Al llegar, su padre los recibió con lágrimas en los ojos, pero la madrastra estaba furiosa. 
-    Sin embargo, al poco tiempo, la escasez volvió a acechar, y la madrastra insistió en llevarlos de nuevo al
+    Sin embargo  al poco tiempo, la escasez volvió a acechar, y la madrastra insistió en llevarlos de nuevo al
     bosque.
 
     Esta vez, Hansel no pudo recoger piedritas, porque la puerta estaba cerrada. En su lugar, dejó caer migajas 
