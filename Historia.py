@@ -17,6 +17,6 @@ print (
     de pan para marcar el camino. Pero para desgracia de los niños, los pájaros del bosque se comieron las migajas 
     y quedaron perdidos.
     Perdidos y asustados, caminaron hasta que encontraron una casa hecha de pan de jengibre, dulces y caramelos. 
-    Hambrientos, comenzaron a comer la casa sin saber que dentro vivía una vieja bruja malvada que los atrapó...
+    Hambrientos, comenzaron a comer la casa sin saber que dentro vivía una vieja bruja malvada que los atrapó.....
     '''
 )
