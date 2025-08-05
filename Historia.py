@@ -20,3 +20,13 @@ print (
     Hambrientos, comenzaron a comer la casa sin saber que dentro vivía una vieja bruja malvada que los atrapó.....
     Posteriomente'''
 )
+
+#Parte 3
+print("La bruja encerró a Hansel en una jaula y obligó a Gretel a trabajar en la casa.")
+print("Cada día le daba de comer a Hansel para engordarlo, pero él le mostraba un huesito en vez de su dedo.")
+print("Cansada de esperar, la bruja encendió el horno y ordenó a Gretel que entrara a revisarlo.")
+print("Gretel fingió no saber cómo, y la bruja entró para mostrarle.")
+print("Entonces Gretel cerró la puerta del horno, atrapando a la bruja para siempre.")
+print("Liberó a Hansel y juntos encontraron cofres llenos de oro en la casa.")
+print("Con el tesoro, regresaron a casa y su padre los recibió con alegría.")
+print("Desde entonces, vivieron felices y nunca más pasaron hambre.")
